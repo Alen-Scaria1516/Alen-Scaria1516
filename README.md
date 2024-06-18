@@ -1,5 +1,5 @@
 <h1 align="center">Heloo 👋, I'm Alen Scaria</h1>
-<h3 align="center">Just a curious mind| Experimenting different stuffs |Improving myself.</h3>
+<h3 align="center">Just a curious mind| Experimenting different stuffs | Focusing on improving myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alen-scaria1516&label=Profile%20views&color=0e75b6&style=flat" alt="alen-scaria1516" /> </p>
 
